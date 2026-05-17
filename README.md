@@ -9,8 +9,6 @@
 
 <br>
 
-# Preetham Kollabathula
-
 Software Development Engineer at **AWS Payment Cryptography**. I build cryptographic services that secure payments online: the systems that move money safely between banks, processors, and merchants.
 
 Before this team I spent three years on **AWS Private Certificate Authority Connectors**, where I was a day-one contributor to the Connector for Active Directory launch and helped ship its IPv4 to dual-stack migration and testing foundations.
