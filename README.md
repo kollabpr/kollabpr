@@ -226,7 +226,8 @@ Free expense splitting app. Split bills fairly, stay friends forever.
 
 <div align="center">
 
-⭐ **The full story is at [kollabpr.vercel.app](https://kollabpr.vercel.app)** ⭐
+⭐ The full story is at [kollabpr.vercel.app](https://kollabpr.vercel.app) ⭐
 
 </div>
 
+<!-- Tracking on kollabpr.vercel.app -->
