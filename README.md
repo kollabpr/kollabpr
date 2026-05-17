@@ -229,3 +229,4 @@ Free expense splitting app. Split bills fairly, stay friends forever.
 ⭐ **The full story is at [kollabpr.vercel.app](https://kollabpr.vercel.app)** ⭐
 
 </div>
+
