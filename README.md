@@ -47,8 +47,10 @@ me.say_hi()
 ### 🤝 Happy to Talk About
 Cryptography & PKI · AWS internals · Self-hosted infrastructure · Home Assistant · Building with LLMs (Claude API, MCP, Bedrock)
 
----
+### 🧭 How I Work
+I look for the cheapest experiment that proves a system is broken before I propose a fix. I prefer one well-instrumented bullet over five plausible-sounding ones. I treat operations as a feature, not an afterthought, which means I write the dashboard before I write the runbook. And I'm allergic to clever code that nobody on call could debug at 3am.
 
+---
 ## 🚀 Featured Work
 
 <table>
