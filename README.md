@@ -11,7 +11,7 @@
 
 Software Development Engineer at **AWS Payment Cryptography**. I build cryptographic services that secure payments online: the systems that move money safely between banks, processors, and merchants.
 
-Before this team I spent three years on **AWS Private Certificate Authority Connectors**, where I was a day-one contributor to the Connector for Active Directory launch and helped ship its IPv4 to dual-stack migration and testing foundations.
+Before this team I spent three years on **AWS Private Certificate Authority Connectors**, contributing to the Connector for Active Directory and the Connector for Simple Certificate Enrollment Protocol from launch through their later expansions.
 
 I gravitate toward problems where small mistakes compound at scale, prefer one well-instrumented bullet over five plausible-sounding ones, and treat operations as a feature rather than an afterthought.
 
