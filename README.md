@@ -6,9 +6,14 @@
 </p>
 
 <p align="center">
-  <img src="chat.svg" width="600"
-       alt="Hi, I'm Preetham — SDE at AWS Payment Cryptography, building cryptographic services that keep online payments secure." />
+  <a href="https://kollabpr.vercel.app"><img src="chat.svg" width="600" alt="Hi, I'm Preetham — SDE at AWS Payment Cryptography. Click to open my portfolio." /></a>
 </p>
+
+**📬 Reach me** — copy my email:
+
+```
+kollabathulapreetham@gmail.com
+```
 
 <br>
 
